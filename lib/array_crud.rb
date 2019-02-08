@@ -1,28 +1,33 @@
 def create_an_empty_array
-  
+   []
 end
 
 def create_an_array
+  ["zero","one","two", "three"]
   
 end
 
 def add_element_to_end_of_array(array, element)
+  .push = "four"
   
 end
 
 def add_element_to_start_of_array(array, element)
+  .unshift = "doublezero"
   
 end
 
 def remove_element_from_end_of_array(array)
+  .pop
   
 end
 
 def remove_element_from_start_of_array(array)
-  
+  .shift 
 end
 
 def retrieve_element_from_index(array, index_number)
+  
   
 end
 
